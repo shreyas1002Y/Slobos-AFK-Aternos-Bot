@@ -1,9 +1,9 @@
 {
   "name": "BotLarry",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BotLarry",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "LarryCult.aternos.me:44746",
